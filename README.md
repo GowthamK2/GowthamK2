@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Gen AI projects
 - 📫 How to reach me [gowthamkrissh24@gamil.com]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Batman
+- ⚡ Fun fact: None
 
 <!---
 GowthamK2/GowthamK2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
